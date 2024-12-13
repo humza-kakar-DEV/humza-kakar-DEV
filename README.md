@@ -12,6 +12,8 @@
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humza-kakar-dev" alt="humza-kakar-dev" /></a> </p> -->
 
  <!-- - 🔭 I’m currently working on **WS Precise** -->
+ 
+<p align="left"> &nbsp; <img src="https://komarev.com/ghpvc/?username=humza-kakar-dev&label=Profile%20views&color=0e75b6&style=flat" alt="humza-kakar-dev" /> </p>
 
 - 🌱 I’m currently learning **TDD**
 
@@ -56,10 +58,16 @@
 
 <h1 align="center">📊 Github Stats</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=humza-kakar-dev&show_icons=true&locale=en&layout=compact" alt="humza-kakar-dev" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=humza-kakar-dev&show_icons=true&locale=en&layout=compact" alt="humza-kakar-dev" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=humza-kakar-dev&show_icons=true&locale=en" alt="humza-kakar-dev" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=humza-kakar-dev&show_icons=true&locale=en" alt="humza-kakar-dev" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humza-kakar-dev&" alt="humza-kakar-dev" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=humza-kakar-dev&" alt="humza-kakar-dev" />
+</div>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humza-kakar-dev&" alt="humza-kakar-dev" /></p> -->
