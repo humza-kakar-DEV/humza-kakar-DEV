@@ -45,7 +45,7 @@
 
 <h1 align="center">📊 Github Stats</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=humza-kakar-dev&show_icons=true&locale=en&layout=compact" alt="humza-kakar-dev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=humza-kakar-dev&show_icons=true&locale=en&layout=compact" alt="humza-kakar-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=humza-kakar-dev&show_icons=true&locale=en" alt="humza-kakar-dev" /></p>
 
