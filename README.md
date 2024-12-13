@@ -21,9 +21,9 @@
 
 - ⚡ Fun fact **The first computer "bug" was a moth in 1947, inspiring the term "debugging"! 🐛💻**
 
-- 👨‍💻 All of my projects are available at <br> [https://github.com/humza-kakar-DEV](https://github.com/humza-kakar-DEV)
+- 👨‍💻 All of my projects are available at <br> https://github.com/humza-kakar-DEV
 
-- 📝 I regularly write articles on <br> [https://www.linkedin.com/in/hamza-kakar-863a37269/](https://www.linkedin.com/in/hamza-kakar-863a37269/)
+- 📝 I regularly write articles on <br> https://www.linkedin.com/in/hamza-kakar-863a37269/recent-activity/all/
 
 - 📫 How to reach me <br> **hamzakakar200331@gmail.com**
 
