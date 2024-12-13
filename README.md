@@ -34,7 +34,13 @@
 <h1 align="center">🤝 Connect With Me</h1>
 
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hamza-kakar-863a37269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hamza-kakar-863a37269/" height="30" width="40" /></a>
+ 
+<a href="https://www.linkedin.com/in/hamza-kakar-863a37269/" target="blank">
+ 
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hamza-kakar-863a37269/" height="30" width="40" />
+
+</a>
+
 </p>
 
 <br><br>
