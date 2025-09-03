@@ -1,7 +1,5 @@
 <h1 align="center">🔥 Crafting Android Apps with Jetpack Compose</h1>
 
-<img src="https://github.com/humza-kakar-DEV/humza-kakar-DEV/blob/master/github%20banner%20-%202.png" alt="Development GIF" />
-
 <h1 align="center">🌟 About Me</h1>
  <!--<h3 align="center">Crafting Android Apps with Jetpack Compose 🔥</h3> -->
 
